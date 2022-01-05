@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
               ),
               ),
               Text(
-                    "Thomas palisseau",
+                    "Thomas Palisseau",
                     style: TextStyle(
                       fontSize: 32.0,
                       letterSpacing: 2.5,
@@ -52,7 +52,7 @@ class MyApp extends StatelessWidget {
 
               Text(
 
-                "Copyright Thomas palisseau 2022",
+                "Copyright Thomas Palisseau 2022",
                 style: TextStyle(
                   fontSize: 14.0,
                   letterSpacing: 2.5,
